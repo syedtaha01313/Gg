@@ -1,0 +1,34 @@
+p4-gclone,ls,cd,ls-l,gbranch
+g checkout -b new branch
+g branch
+g merge neebranch 
+g checkout -b new branch2
+g init
+ls 
+g add
+g add-A
+g status 
+g commit -m
+g log
+g remote -v 
+g push origin main
+g origin""
+g push origin main
+p5
+g i
+g cl
+cd 
+tf
+g add f
+g c
+g remote -v
+g remote ut-url
+g branch
+g push origin main
+g pull origin main 
+g branch new
+g checkout nee
+tf 9
+g a f9
+ls
+g s
